@@ -19,4 +19,3 @@ It provides structured queries to store, retrieve, and analyze employee informat
 - **Language**: SQL  
 - **Tools Used**: SQL Server Management Studio (SSMS) / MySQL Workbench  
 
-## 📂 Project Structure
